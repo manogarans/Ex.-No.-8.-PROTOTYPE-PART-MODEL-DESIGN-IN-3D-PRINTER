@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:MANOGARAN S
+### Register Number:212223240081
+![Screenshot 2024-05-13 173121](https://github.com/manogarans/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139331782/bcb7e043-582e-46c4-a38a-8c454ab7dc2e)
+
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
